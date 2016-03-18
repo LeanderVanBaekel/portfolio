@@ -1,0 +1,17 @@
+<%= include head %>
+
+	<% data.projects.forEach(function(project) { %>
+
+		<section class="portf">
+			<a href="<%= data.req.baseUrl + "/project/" + project.id %>">
+		
+				<img src="/data/portfolio/<%= project.projectName %>/<%= project.tumbImg %>">
+				<h1><%= project.projectTitle %></h1>
+				<p><%= project.introtext + " ... lees verder >" %></p>
+			</a>
+		</section>
+
+	<% }); %>
+
+
+<%= include foot %>

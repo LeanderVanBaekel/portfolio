@@ -1,0 +1,72 @@
+<%= include head %>
+
+
+<section class="head">
+
+<div class="content">
+  <form method="post" action="<%= data.req.baseUrl + "/add" %>" enctype="multipart/form-data">
+  	<fieldset>
+  		<label>id: </label><input type="number" name="id" id="id" value="<%= data.projectId %>" >
+
+  		<br>
+
+  		<label>project naam: </label><input type="text" name="projectName" id="projectName">
+
+  		<br>
+
+  		<label>project title: </label><input type="text" name="projectTitle" id="projectTitle">
+
+  		<br>
+
+  		<label>opdracht: </label><input type="text" name="mission" id="mission">
+
+  		<br>
+
+  		<label>opdrachtgever: </label><input type="text" name="client" id="client">
+
+  		<br>
+
+  		<label>skills: </label>
+  		<input type="text" name="skill1" id="skill1"><br>
+  		<input type="text" name="skill2" id="skill2"><br>
+  		<input type="text" name="skill3" id="skill3"><br>
+  		<input type="text" name="skill4" id="skill4"><br>
+  		<input type="text" name="skill5" id="skill5"><br>
+
+  		<br>
+
+  		<label>tumb img: </label><input type="file" name="tumbImg">
+
+  		<br>
+
+  		<label>intro: </label><textarea type="text" rows="3" maxlength="255" cols="50" name="introtext" value=""></textarea>
+
+  		<br>
+
+  		<label>tekst: </label><textarea type="text" rows="3" maxlength="2000" cols="50" name="text" value=""></textarea>
+
+  		<br>
+
+  		<label>img: </label>
+  		<input type="file" name="workImg1"><br>
+  		<input type="file" name="workImg2"><br>
+  		<input type="file" name="workImg3"><br>
+  		<input type="file" name="workImg4"><br>
+  		<input type="file" name="workImg5">
+
+  		<br>
+
+  		<label>url: </label><input type="url" name="url" id="url">
+
+      <br>
+
+    	<button type="submit">Save</button>
+
+
+  	</fieldset>
+  </form>
+</div>
+</section>
+
+
+<%= include foot %>

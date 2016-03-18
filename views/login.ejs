@@ -1,0 +1,14 @@
+<%= include head %>
+
+	<form action="<%= data.req.baseUrl + "/login" %>" method="post">
+		<fieldset>
+			<h2><%= data.test %></h2>
+			<label>Gebruikersnaam: </label><br>
+			<input type="text" name="username" value=""><br>
+			<label>Wachtwoord: </label><br>
+			<input type="password" name="password" value=""><br>
+			<button>Login!</button>
+		</fieldset>
+	</form>
+
+<%= include foot %>

@@ -1,0 +1,208 @@
+[
+	{
+		"id": "1",
+		"projectName": "360",
+		"projectTitle": "360ideas",
+		"mission": "Startup bedrijf",
+		"client": "Hogeschool van Amsterdam",
+		"skills": [
+			"Frontend-development"
+		],
+		"tumbImg": "360_tumb.jpg",
+		"introtext": "Met dit project hebben we een idee moeten uitwerken tot een 'echt' bedrijf. Samen met",
+		"text": "<p>Met dit project hebben we een idee moeten uitwerken tot een 'echt' bedrijf. Samen met 5 andere klasgenoten hebben we een platform bedacht waar scholen en bedrijven elkaar kunnen ontmoeten. De bedrijven kunnen hun projecten aanbieden en scholen kunnen deze projecten vervolgens gebruiken om 'echte' opdrachten aan hun studenten te kunnen bieden.</p> <p>Ikzelf heb voor dit project gewerkt aan de conceptontwikkeling en aan de ontwikkeling van de website.</p> <p>Voor deze website heb ik geen templates oid gebruikt, ik heb zo goed als alle code zelf geschreven.</p>",
+		"workImg": [
+			"360°ideas2.png",
+			"360°ideas3.png",
+			"360°ideas3.png",
+			"360°ideas3.png"
+		],
+		"url": "http://oege.ie.hva.nl/~baekell001/360"
+	},
+	{
+		"id": "2",
+		"projectName": "piraatje",
+		"projectTitle": "Piraatje Kookt!",
+		"mission": "web applicatie",
+		"client": "Hogeschool van Amsterdam",
+		"skills": [
+			"Frontend-development"
+		],
+		"tumbImg": "piraatje_tumb.jpg",
+		"introtext": "Piraatje kookt is een schoolopdracht geweest. De opdracht was om samen met ",
+		"text": "<p>Piraatje kookt is een schoolopdracht geweest. De opdracht was om samen met 4 andere studenten een 'culinaire' web app te bedenken voor kinderen die in de buurt van Amsterdam oud zuid wonen.</p> <p>We hebben hier een verhaal van een piraat om heen bedacht die samen met jou opzoek gaat naar ingrediënte in de stad.</p> <p>Voor dit project heb ik mij vooral bezig gehouden met de website. De website is bedoeld als werkend prototype dus technisch zit hij niet geweldig in elkaar. Waar het om draait is de werkende geolocatie die in de app verwerkt zit waardoor wij de applicatie echt konden testen.</p>",
+		"workImg": [
+			"piraatje1.png"
+		],
+		"url": "http://oege.ie.hva.nl/~baekell001/CMDAAN"
+	},
+	{
+		"id": "3",
+		"projectName": "jello",
+		"projectTitle": "Jello",
+		"mission": "Startup website",
+		"client": "School",
+		"skills": [
+			"test3",
+			"test4"
+		],
+		"tumbImg": "jello_tumb.jpg",
+		"introtext": "Jello is een Bootstrap website gemaakt om snel en effectief",
+		"text": "<p>Jello is een Bootstrap website gemaakt om snel en effectief een bedrijf op de kaart te zetten</p><p>Ik heb de Frontend kant gedaan voor deze website met behulp van Twitter Bootstrap.</p>",
+		"workImg": [
+			"Jello1.png",
+			"Jello2.png",
+			"Jello3.png"
+		],
+		"url": "http://oege.ie.hva.nl/~baekell001/startup"
+	},
+	{
+		"id": "4",
+		"projectName": "bijt",
+		"projectTitle": "Bijt!",
+		"mission": "Javascript project",
+		"client": "Hogeschool van Amsterdam",
+		"skills": [
+			"Programmeren"
+		],
+		"tumbImg": "bijt_tumb.jpg",
+		"introtext": "Dit is mijn eerste echte javascript applicatie. Het spel",
+		"text": "<p>Dit is mijn eerste echte javascript applicatie. Het spel is gebaseerd op het (bord)spel <a>BelloBijt</a>.</p>",
+		"workImg": [],
+		"url": "http://oege.ie.hva.nl/~baekell001/BIJT"
+	},
+	{
+		"id": "5",
+		"projectName": "link",
+		"projectTitle": "Link",
+		"mission": "Dating applicatie",
+		"client": "Mediacollege Amsterdam",
+		"skills": [
+			"Grafisch vormgeven"
+		],
+		"tumbImg": "link_tumb.jpg",
+		"introtext": "Ver voor Tinder gaf het Mediacollege mij de opdracht om een dating",
+		"text": "<p>Ver voor Tinder gaf het Mediacollege mij de opdracht om een dating applicatie te bedenken en daar een campagne omheen te bedenken.</p><p></p>",
+		"workImg": [
+			"9.png",
+			"8.png",
+			"7.png",
+			"6.png",
+			"5.png",
+			"4.png",
+			"3.png",
+			"2.png",
+			"1.png"
+		]
+	},
+	{
+		"id": "6",
+		"projectName": "fairexample",
+		"projectTitle": "Fair Example",
+		"mission": "Campagne",
+		"client": "Mediacollege Amsterdam",
+		"skills": [
+			"Grafisch vormgeven",
+			"Conceptontwikkeling"
+		],
+		"tumbImg": "fairexample_tumb.jpg",
+		"introtext": "Campagne tegen dopinggebruik bij wielrennen.",
+		"text": "<p>Campagne tegen dopinggebruik bij wielrennen.</p><p>Campagne video</p> <iframe src='//player.vimeo.com/video/119630974' width='100%' max-width='200px' height='281' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+		"workImg": [
+			"fairexample-logo.gif",
+			"1.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg"
+		]
+	},
+	{
+		"id": "7",
+		"projectName": "kassei",
+		"projectTitle": "De Kassei",
+		"mission": "Huisstijl & Campagne",
+		"client": "Mediacollege Amsterdam",
+		"skills": [
+			"Grafisch vormgeven",
+			"Conceptontwikkeling"
+		],
+		"tumbImg": "kassei_tumb.jpg",
+		"introtext": "De kassei is een theater samengesteld uit drie theaters",
+		"text": "<p>De kassei is een theater samengesteld uit drie theaters gelegen in het Nes.<p>",
+		"workImg": [
+			"kassei_camp1.png",
+			"kassei_camp2.png",
+			"kassei_camp3.png",
+			"kassei_huis1.png",
+			"kassei_huis2.png",
+			"kassei_huis3.png",
+			"kassei_huis4.png",
+			"kassei_website1.png",
+			"kassei_website2.png",
+			"kassei_website3.png"
+		]
+	},
+	{
+		"id": "8",
+		"projectName": "econome",
+		"projectTitle": "De Econome",
+		"mission": "Boek",
+		"client": "Mediacollege Amsterdam",
+		"skills": [
+			"Grafisch vormgeven",
+			"Conceptontwikkeling"
+		],
+		"tumbImg": "econome_tumb.jpg",
+		"introtext": "Boeken worden altijd in een dezelfde vorm gegoten, aan",
+		"text": "<p>Boeken worden altijd in een dezelfde vorm gegoten, aan mij de opdracht om een boek vorm te geven naar de inhoud.</p>",
+		"workImg": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"poster1.jpg",
+			"poster2.jpg",
+			"poster3.jpg"
+		]
+	},
+	{
+		"id": "9",
+		"projectName": "legionella",
+		"projectTitle": "Legionella",
+		"mission": "Viral video",
+		"client": "Hogeschool van Amsterdam",
+		"skills": [
+			"Visual Design"
+		],
+		"tumbImg": "legionella_tumb.jpg",
+		"introtext": "Video om mensen te informeren over het gevaar van",
+		"text": "<p>Video om mensen te informeren over het gevaar van legionella.</p>\r\n<iframe src=\"//player.vimeo.com/video/84854454\" width=\"100%\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+		"workImg": [
+			"legionella_Storyboard1.png",
+			"legionella_Storyboard2.png",
+			"legionella_Storyboard3.png",
+			"legionella_Storyboard4.png",
+			"legionella_Storyboard5.png"
+		]
+	},
+	{
+		"id": "10",
+		"projectName": "overmij",
+		"projectTitle": "Over mij",
+		"mission": "",
+		"client": "",
+		"skills": [
+			""
+		],
+		"tumbImg": "foto.JPG",
+		"introtext": "Wie ben ik?",
+		"text": "<p><a href='/cv'>Mijn CV</a></p><br><p>Ik ben Leander, 21 jaar, afgestudeerd grafisch vormgever en momenteel student Communicatie & Multimediadesign aan de Hogeschool van Amsterdam. </p><p>Ik wwon in <a href='http://google.nl/Heemskerk'>Heemskerk</a>, hier werk ik ook als teamleider bij de Albert Heijn.</p><p>Ik ben graag bezig met Programmeren maar ook computers bouwen met <a href='http://arduino.cc'>Arduino's</a>, <a href='http://raspberrypi.org'>Raspberry pi's</a> en <a href='#'>Makey Makey's vind ik erg leuk.</p><p>Wil je graag contact met mij opnemen? Dat kan!<br><a href='mailto:leander.van.baekel@gmail.com'>leander.van.baekel@gmail.com</a></p>",
+		"workImg": [
+			"foto.JPG"
+		]
+	}
+]

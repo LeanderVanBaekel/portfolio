@@ -1,0 +1,48 @@
+<%= include head %>
+
+	<a href="/" class="terug">
+	    <section style="padding: 1em">
+	        &#9664; TERUG
+	    </section>
+	</a>
+
+
+	<section class="info">
+
+		<h1> <%= data.project.projectTitle %> </h1>
+		<img src="/data/portfolio/<%= data.project.projectName %>/<%= data.project.tumbImg %>">
+		<ul>
+			<li> <%= data.project.mission + " •" %> </li>
+			<li> <%= data.project.client  + " •" %> </li>
+			<li>
+				<% data.project.skills.forEach(function(skill) { %>
+					<%= skill %>
+				<% }) %>
+			&#32;•</li>
+			<% if(data.project.url) { %>
+			<li> <a target="_blank" href="<%= data.project.url %>">Bekijk de website! •</a></li>
+			<% } %>
+		</ul>
+
+		<!-- <p> <%= data.project.introtext %> </p> -->
+		<%- data.project.text %>
+	</section>
+
+
+	<% data.project.workImg.forEach(function(img) { %>
+        <section class=" detail portf-img">
+			<a target="_blank" href="/data/portfolio/<%= data.project.projectName + "/" + img %>"> 
+				<img src="/data/portfolio/<%= data.project.projectName + "/" + img %>"> 
+			</a>
+		</section>
+	<% }) %>
+
+
+	<a href="/" class="terug">
+	    <section style="padding: 1em">
+	        &#9664; TERUG
+	    </section>
+	</a>
+
+
+<%= include foot %>

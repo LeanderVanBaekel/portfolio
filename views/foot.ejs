@@ -1,0 +1,16 @@
+        <section class="head">
+            <p>© 2015 Leander van Baekel — Alle rechten voorbehouden.</p>
+            <% if (req.session.username) { %>
+            
+		        <a href="/add">
+		            <p>add</p>
+		        </a>
+            	<a href="/logout">Uitloggen</a>
+            <% } else { %>
+            	<a href="/login">Inloggen</a>
+            <% } %>
+        </section>
+
+    <script src="script.js"></script>
+  </body>
+</html>
